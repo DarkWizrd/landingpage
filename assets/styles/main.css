@@ -1,0 +1,22 @@
+/* * {
+  outline: 2px solid greenyellow;
+} */
+header {
+  display:flex;
+  outline: 2px solid yellow;
+  justify-content:space-between
+}
+ul{
+  display:flex;
+  gap:50px;
+  align-items:center;
+  justify-content: center;
+}
+header .logo {
+  height: 80px;
+}
+.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
