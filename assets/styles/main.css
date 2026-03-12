@@ -68,7 +68,7 @@
 /* ********************************************************************************* */
 * {
   box-sizing: border-box;
-  font-family: JetBrains mono,Arial, Helvetica, sans-serif;
+  font-family: JetBrains mono,Consolas,Arial, Helvetica, sans-serif;
 }
 html,
 body {
